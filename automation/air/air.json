@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T23:54:30.416Z",
+  "updated_at": "2026-09-15T23:33:34.335Z",
   "source_name": "Air4Thai（タイ公害管理局 公式API）",
   "source_url": "https://air4thai.pcd.go.th/services/getNewAQI_JSON.php",
   "stations": [
@@ -10,10 +10,10 @@
       "area_en": "Bo Win, Si Racha, Chon buri",
       "lat": 13.054551,
       "lon": 101.098128,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "time": "06:00",
-      "pm25_value": 15,
-      "aqi": 25,
+      "pm25_value": 11.3,
+      "aqi": 19,
       "aqi_level": {
         "label": "良好",
         "labelJa": "良好（安全）"
@@ -26,10 +26,10 @@
       "area_en": "Thung Sukhla, Si Racha, Chon buri",
       "lat": 13.11923333,
       "lon": 100.91855,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "time": "06:00",
-      "pm25_value": 11.3,
-      "aqi": 19,
+      "pm25_value": 11.7,
+      "aqi": 20,
       "aqi_level": {
         "label": "良好",
         "labelJa": "良好（安全）"
