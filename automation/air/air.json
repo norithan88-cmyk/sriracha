@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:59:17.709Z",
+  "updated_at": "2026-11-08T00:48:07.208Z",
   "source_name": "Air4Thai（タイ公害管理局 公式API）",
   "source_url": "https://air4thai.pcd.go.th/services/getNewAQI_JSON.php",
   "stations": [
@@ -11,9 +11,9 @@
       "lat": 13.054551,
       "lon": 101.098128,
       "date": "2026-11-07",
-      "time": "07:00",
-      "pm25_value": 17.1,
-      "aqi": 31,
+      "time": "13:00",
+      "pm25_value": 18.1,
+      "aqi": 33,
       "aqi_level": {
         "label": "普通",
         "labelJa": "普通"
@@ -26,10 +26,10 @@
       "area_en": "Thung Sukhla, Si Racha, Chon buri",
       "lat": 13.11923333,
       "lon": 100.91855,
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "time": "07:00",
-      "pm25_value": 23.7,
-      "aqi": 47,
+      "pm25_value": 22.8,
+      "aqi": 45,
       "aqi_level": {
         "label": "普通",
         "labelJa": "普通"
